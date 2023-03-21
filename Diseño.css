@@ -7,6 +7,20 @@ section{
    background-attachment: fixed;
 }
 
+
+@font-face {
+
+  font-family: Kanit-Thin;
+  
+  src: url(Materiales/Kanit-Thin.ttf);
+  
+  }
+
+  h1{
+    font-family: Kanit-Thin;
+    color:white;
+  }
+
 .image-1 {
     background-image: url("Materiales/1.jpg")
   }
@@ -20,3 +34,5 @@ section{
   .image-4 {
     background-image: url("Materiales/4.jpg");
   }
+
+  
