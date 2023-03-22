@@ -156,7 +156,7 @@ section *::after {
   transform: rotate(-10deg);
   bottom: -5%;
   left: -15%;
-  aclip-path: polygon(0 0, 100% 0, 100% 100%, 40% 8.25%, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 40% 8.25%, 0 100%);
 }
 
 @keyframes showring {
